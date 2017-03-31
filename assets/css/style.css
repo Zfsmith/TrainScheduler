@@ -1,0 +1,16 @@
+body{
+	background-color: #E8E8E8;
+}
+header{
+	color: #E8E8E8;
+	background-color: #990100;
+}
+.jumbotron{
+	color: #E8E8E8;
+	background-color: #990100;
+}
+#submit{
+	color: #E8E8E8;
+	background-color: #990100;
+	border-radius: 0;
+}
